@@ -19,6 +19,7 @@ Principal runtime components:
 - keyring — MIT.
 - Pillow — HPND.
 - SQLite — public domain.
+- Official OpenAI Codex CLI 0.163.0 — Apache-2.0, with upstream NOTICE. Only the architecture-matched CLI binary is bundled; optional voice and code-mode host components are not included.
 
 License texts available in the installed packages are collected into the application's `notices` resources during packaging. Build-only dependencies may also appear in that collection.
 
