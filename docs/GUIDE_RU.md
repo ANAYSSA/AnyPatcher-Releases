@@ -1,5 +1,7 @@
 # Как пользоваться AnyPatcher
 
+![Рабочее окно: файлы, функции, ассемблер и боковой помощник](images/workspace.png)
+
 ## Установка
 
 1. Откройте [Releases](https://github.com/ANAYSSA/AnyPatcher-Releases/releases).
